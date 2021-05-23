@@ -1,0 +1,16 @@
+    {/* <form onSubmit={sendForm}>
+      <label htmlFor="name">Firstname:</label>
+      <input id="firstname" name="firstname" type="text" autoComplete="name" required />
+
+      <label htmlFor="name">Lastname:</label>
+      <input id="lastname" name="lastname" type="text" autoComplete="name" required />
+
+      <label htmlFor="name">Email:</label>
+      <input id="email" name="email" type="text" autoComplete="name" required />
+
+      <label htmlFor="message">Message:</label>
+      <textarea id="message" name="message" type="textarea" autoComplete="name" required />
+      
+      
+      <button type="submit">Send message</button>
+    </form> */}
